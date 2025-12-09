@@ -1,7 +1,7 @@
 <h2> Olá, eu sou Bianca Bueno! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img src="github.jpg" alt="Banner" width="100%" />
+  <img src="github.png" alt="Banner" width="100%" />
 </p>
 
 Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Python e Java e desenvolvo projetos para evoluir minha lógica e domínio de APIs. Tenho experiência em suporte técnico e gosto de criar soluções práticas e bem estruturadas.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
