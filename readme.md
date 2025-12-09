@@ -1,15 +1,13 @@
-<h2 align="center">
-Olá, eu sou Bianca Bueno! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</h2>
+<h2> Olá, eu sou Bianca Bueno! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <p align="center">
   <img src="github.png" alt="Banner" width="100%" />
 </p>
-<h3 align="center">
-  Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Python e Java e desenvolvo projetos para evoluir minha lógica e domínio de APIs. Tenho experiência em suporte técnico e gosto de criar soluções práticas e bem estruturadas.
-</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<h3>
+  Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Python e Java e desenvolvo projetos para evoluir minha lógica e domínio de APIs. Tenho experiência em suporte técnico e gosto de criar soluções práticas e bem estruturadas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-<h align="center">
+
 ### ˖⁺‧₊˚♡˚₊‧⁺˖ 𝖫𝗂𝗇𝗀𝗎𝖺𝗀𝖾𝗇𝗌 𝖾 𝖳𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺𝗌  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGphZHo1NzE3Y2l6ZmNkMmI3d2xja2RxMjJhaDBvcGljaTF3OHk1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zw8zwpIaMXRNNLmDHj/giphy.gif" width="25">
  
 <img 
