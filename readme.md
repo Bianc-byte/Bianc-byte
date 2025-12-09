@@ -8,8 +8,8 @@ Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Pytho
 
 
 
-### 🤖 Linguagens e Tecnologias
-
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWtlNGdqbmpzZTkxbWJyYmVnMG03NmRkMTZqODBoeWVybW9iOGZpYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qdc61BUGckowIt8ouL/giphy.gif" width="30">  Linguagens e Tecnologias
+ 
 <img 
     align="left" 
     alt="HTML"
@@ -89,16 +89,14 @@ Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Pytho
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 />
 
-
-<br/><br/>
-### 📊 Estatísticas  
-
-![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianc-byte&show_icons=true)
-
-<br/>
-<br/>
+<br><br>
 
 <h3>Minhas redes</h3>
 <p><a href="https://github.com/Bianc-byte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a </a> <a href="https://www.linkedin.com/in/bianca-bueno-a58589377/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldndrNzBjZXdtN3ZmMGF5ZTJvbnp0MXdyYXU3ZWV4eHJzMjFlZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tV25tpdKqdFa9x81k2/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldndrNzBjZXdtN3ZmMGF5ZTJvbnp0MXdyYXU3ZWV4eHJzMjFlZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4QZK21zlzVIyc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDh1em9uZzk2ZjdwaGdycHgyZmQ3enM4MWo4MHFnNWRmYjFkMmFrNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6bXd6ZTYpZWrC/giphy.gif" width="60">
