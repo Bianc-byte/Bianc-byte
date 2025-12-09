@@ -8,7 +8,7 @@ Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Pytho
 
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWtlNGdqbmpzZTkxbWJyYmVnMG03NmRkMTZqODBoeWVybW9iOGZpYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qdc61BUGckowIt8ouL/giphy.gif" width="30">  Linguagens e Tecnologias
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGphZHo1NzE3Y2l6ZmNkMmI3d2xja2RxMjJhaDBvcGljaTF3OHk1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zw8zwpIaMXRNNLmDHj/giphy.gif" width="30">  Linguagens e Tecnologias
  
 <img 
     align="left" 
