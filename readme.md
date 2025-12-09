@@ -9,8 +9,8 @@ Olá, eu sou Bianca Bueno! <img src="https://media.giphy.com/media/mGcNjsfWAjY5A
 </h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 
-<h3 align="center">
- ˖⁺‧₊˚♡˚₊‧⁺˖ 𝖫𝗂𝗇𝗀𝗎𝖺𝗀𝖾𝗇𝗌 𝖾 𝖳𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺𝗌  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGphZHo1NzE3Y2l6ZmNkMmI3d2xja2RxMjJhaDBvcGljaTF3OHk1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zw8zwpIaMXRNNLmDHj/giphy.gif" width="25">
+<h align="center">
+### ˖⁺‧₊˚♡˚₊‧⁺˖ 𝖫𝗂𝗇𝗀𝗎𝖺𝗀𝖾𝗇𝗌 𝖾 𝖳𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺𝗌  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGphZHo1NzE3Y2l6ZmNkMmI3d2xja2RxMjJhaDBvcGljaTF3OHk1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zw8zwpIaMXRNNLmDHj/giphy.gif" width="25">
  
 <img 
     align="left" 
@@ -92,9 +92,10 @@ Olá, eu sou Bianca Bueno! <img src="https://media.giphy.com/media/mGcNjsfWAjY5A
 />
 
 <br><br>
-<h3 align="center">˖⁺‧₊˚♡˚₊‧⁺˖ 𝖬𝗂𝗇𝗁𝖺𝗌 𝗋𝖾𝖽𝖾𝗌 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldndrNzBjZXdtN3ZmMGF5ZTJvbnp0MXdyYXU3ZWV4eHJzMjFlZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hY8zxeuFn4tjRw0SXf/giphy.gif" width="30"> </h3>
 
-<p align="center"><a href="https://github.com/Bianc-byte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a </a> <a href="https://www.linkedin.com/in/bianca-bueno-a58589377/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h3>˖⁺‧₊˚♡˚₊‧⁺˖ 𝖬𝗂𝗇𝗁𝖺𝗌 𝗋𝖾𝖽𝖾𝗌 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldndrNzBjZXdtN3ZmMGF5ZTJvbnp0MXdyYXU3ZWV4eHJzMjFlZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hY8zxeuFn4tjRw0SXf/giphy.gif" width="30"> </h3>
+
+<p><a href="https://github.com/Bianc-byte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a </a> <a href="https://www.linkedin.com/in/bianca-bueno-a58589377/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
 
