@@ -4,7 +4,7 @@
   <img src="github.png" alt="Banner" width="100%" />
 </p>
 <h3>
-  Estudante de Engenharia de Software com foco em Backend. Atualmente estudo Python e Java e desenvolvo projetos para evoluir minha lógica e domínio de APIs. Tenho experiência em suporte técnico e gosto de criar soluções práticas e bem estruturadas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+  Estudante de Engenharia de Software. Atualmente estudo Python e Java e desenvolvo projetos para evoluir minha lógica e domínio de APIs. Tenho experiência em suporte técnico e gosto de criar soluções práticas e bem estruturadas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
 
